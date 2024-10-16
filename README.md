@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/originals/60/96/a2/6096a27a6b9423674931f9443ad45db2.jpg)]
+[![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg)]
 <h1 align="center">𝕐𝕠...!!! 👋,</h1>
 <h1 align="center">I'm 𝕊𝕙𝕣𝕒𝕧𝕒𝕟 𝕂𝕦𝕞𝕒𝕣 . 𝕌</h1>
 <h2 align="center">ɪ ᴡᴀɴᴛ ᴛᴏ ʙᴇᴄᴏᴍᴇ ᴀ ꜱᴏꜰᴛᴡᴀʀᴇ ᴇɴɢɪɴᴇᴇʀ</h2>
