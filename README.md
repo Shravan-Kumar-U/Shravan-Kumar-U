@@ -1,7 +1,7 @@
 [![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg)]
 <h1 align="center">𝕐𝕠...!!! 👋,</h1>
 <h1 align="center">I'm 𝕊𝕙𝕣𝕒𝕧𝕒𝕟 𝕂𝕦𝕞𝕒𝕣 . 𝕌</h1>
-<h2 align="center">ɪ ᴡᴀɴᴛ ᴛᴏ ʙᴇᴄᴏᴍᴇ ᴀ ꜱᴏꜰᴛᴡᴀʀᴇ ᴇɴɢɪɴᴇᴇʀ</h2>
+<h2 align="center">𝗜 𝗔𝗠 𝗚𝗢𝗜𝗡𝗚 𝗧𝗢 𝗕𝗘𝗖𝗢𝗠𝗘 𝗔 𝗦𝗢𝗙𝗧𝗪𝗔𝗥𝗘 𝗘𝗡𝗚𝗜𝗡𝗘𝗘𝗥</h2>
 <p><img align="centre" alt="Coding" width="300" src="https://i.giphy.com/media/mTPjPA6SSXgTsnZ1Dh/giphy.gif"></p>
 
 
