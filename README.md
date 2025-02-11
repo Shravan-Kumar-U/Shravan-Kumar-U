@@ -1,4 +1,4 @@
-![MasterHead](https://cdna.artstation.com/p/assets/images/images/034/375/954/large/ahmed-samier-naruto-banner.jpg?1612144068)
+
 <h1 align="center">𝕐𝕠...!!! 👋,</h1>
 <h1 align="center">I'm 𝕊𝕙𝕣𝕒𝕧𝕒𝕟 𝕂𝕦𝕞𝕒𝕣 . 𝕌</h1>
 <h2 align="center">𝗜 𝗔𝗠 𝗚𝗢𝗜𝗡𝗚 𝗧𝗢 𝗕𝗘𝗖𝗢𝗠𝗘 𝗔 𝗦𝗢𝗙𝗧𝗪𝗔𝗥𝗘 𝗘𝗡𝗚𝗜𝗡𝗘𝗘𝗥✨</h2>
@@ -30,6 +30,7 @@
 
 
 <!--
+![MasterHead](https://cdna.artstation.com/p/assets/images/images/034/375/954/large/ahmed-samier-naruto-banner.jpg?1612144068)
 # Yoo...!!! 👋
 ## I am going to become a FullStack-Developer ✨
 -->
